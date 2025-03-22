@@ -1,0 +1,181 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Philanthropy Insights</title>
+
+    <style>
+        /* Global Dark Theme */
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #0a0a0a;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    background-color: #0d0d2b;
+ background-size: cover;
+}
+
+/* Navigation Bar */
+nav {
+    background: #0d0d2b;
+    padding: 15px;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+nav ul li a {
+    color: #58a6ff;
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 18px;
+    transition: 0.3s;
+    border-radius: 5px;
+    font-weight: bold;
+}
+nav ul li a:hover, .active {
+    background: #1c1c44;
+    color: #fff;
+    transform: scale(1.05);
+}
+
+/* Hero Section */
+.hero {
+    padding: 100px 20px;
+    background: linear-gradient(to right, #0f0f3b, #0a0a23);
+    border-bottom: 3px solid #58a6ff;
+    animation: fadeIn 1.5s ease-in-out;
+}
+
+.hero h1 {
+    font-size: 48px;
+    color: #58a6ff;
+    font-weight: bold;
+}
+
+.hero p {
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #b3b3b3;
+}
+
+/* Buttons */
+.btn {
+    padding: 12px 25px;
+    background: #58a6ff;
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    border-radius: 30px;
+    transition: 0.3s;
+    font-weight: bold;
+}
+
+.btn:hover {
+    background: #4185ff;
+    transform: scale(1.1);
+    box-shadow: 0px 5px 15px rgba(88, 166, 255, 0.4);
+}
+
+/* Features Section */
+.features {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding: 50px 10px;
+    background: #181818;
+}
+
+.feature {
+    flex: 1;
+    min-width: 280px;
+    max-width: 350px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background: #222;
+    transition: 0.3s;
+    text-align: left;
+}
+
+.feature:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 10px 15px rgba(88, 166, 255, 0.2);
+}
+
+.feature h2 {
+    color: #58a6ff;
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+/* Footer */
+footer {
+    padding: 15px;
+    background: #1c1c1c;
+    font-size: 14px;
+    color: #888;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+    </style>
+   
+</head>
+<body>
+
+    <nav>
+        <ul>
+            <li><a href="index.html" class="active">Home</a></li>
+            <li><a href="upload.html">Upload</a></li>
+            <li><a href="analysis.html">Analysis</a></li>
+            <li><a href="visualization.html">Visualization</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="help.html">Help</a></li>
+        </ul>
+    </nav>
+
+    <header>
+        <div class="hero">
+            <h1 class="fade-in">Welcome to <span>Philanthropy Insights</span></h1>
+            <p>Unlock meaningful donation trends and gain powerful insights.</p>
+            <a href="upload.html" class="btn">Get Started</a>
+        </div>
+    </header>
+
+    <section class="features">
+        <div class="feature">
+            <h2>📊 Data-Driven Insights</h2>
+            <p>Analyze donation patterns, trends, and key metrics with ease.</p>
+        </div>
+        <div class="feature">
+            <h2>📌 Smart Visualizations</h2>
+            <p>Explore interactive graphs to understand donation behaviors.</p>
+        </div>
+        <div class="feature">
+            <h2>🚀 Simple & Efficient</h2>
+            <p>Upload your data and get actionable insights instantly.</p>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2025 Philanthropy Insights | Made with ❤️ for impactful donations.</p>
+    </footer>
+
+</body>
+</html>

@@ -28,7 +28,7 @@ print("untitled0.py", "D:/vscodefol/Philanthropy_Insights/Philanthropy_Insights_
 import pandas as pd
 
 # Read the uploaded file
-df = pd.read_csv("D:/vscodefol/Philanthropy_Insights/Philanthropy_Insights_Platform/backend/processed_philanthropy_data.csv")
+df = pd.read_csv("D:/vscodefol/Philanthropy_Insights/Philanthropy_Insights_Platform/dataset/processed_philanthropy_data.csv")
 
 
 # Display the first few rows

@@ -1,0 +1,501 @@
+donor_id,age,gender,location,donation_amount,donation_frequency,donation_cause,preferred_mode_of_donation,engagement_level,date_of_last_donation,days_since_last_donation,cluster,age_group,donor_cluster
+89741aaa-a482-40d4-937f-cb1f45f38bb6,36,Male,North Sandrabury,7393.33,17,Disaster Relief,Cash,High,2023-08-06,528,3,31-50,2
+6fae3034-5944-4a52-a819-85ad85759f66,53,Other,Lake Sandra,4381.28,10,Disaster Relief,Cheque,High,2024-06-18,211,0,51-70,1
+279897b4-1b92-4d90-80db-26f944f41133,75,Male,New Derekside,6788.64,17,Health,Cheque,Medium,2023-07-16,549,2,71+,2
+93bb0a67-3ee3-4cab-9e22-ef22b1f87e77,50,Other,Kimview,9312.61,18,Environment,Online,High,2024-05-16,244,2,31-50,2
+51ebd1ee-9f22-49cf-8f61-e90e0f11e14c,29,Female,Port John,2091.64,17,Education,Cheque,Medium,2023-02-25,690,1,18-30,0
+196cf050-418e-40e3-a089-5dfe4582bb3c,67,Female,South Amanda,7360.32,11,Disaster Relief,Online,High,2023-03-21,666,2,51-70,2
+936cf44e-55e1-45e4-8fcf-ffff8f56f169,28,Other,Jamesfurt,4183.22,15,Health,Online,Low,2024-04-14,276,3,18-30,1
+b9509bb9-5ea5-441f-8db3-549ea705b3e1,21,Other,Lake Melissaport,1121.03,18,Education,Online,Low,2024-02-05,345,1,18-30,0
+84637749-4c6f-4baa-a70b-b1e9a5cb1f06,35,Male,Thompsonfort,2955.89,1,Disaster Relief,Cash,Medium,2023-04-08,648,1,31-50,0
+83a3fe3a-4196-4fb1-8404-f1311324cf9d,69,Female,East Jamesborough,3221.33,1,Environment,Online,High,2024-01-12,369,0,51-70,0
+e269a9e7-c385-4ac5-8949-7c5c9bd73ac1,24,Female,Williamshaven,5297.5,12,Disaster Relief,Cash,High,2024-07-21,178,3,18-30,1
+4d8022cb-1b8b-4b16-bff1-f3dbf6d00d72,37,Other,West Larry,4844.35,15,Disaster Relief,Online,High,2024-12-21,25,3,31-50,1
+2a74c92d-5cbc-4d66-b8db-84d4324f57eb,44,Male,Lake David,8560.84,12,Education,Cheque,Low,2024-06-16,213,3,31-50,2
+36139065-02d6-44c2-bab8-afcea9e54113,34,Female,Manuelstad,6835.44,4,Animal Welfare,Cheque,Low,2024-09-01,136,0,31-50,2
+f24c5537-5b03-4254-a4df-dff389dbc04a,32,Other,West Katherinemouth,2090.75,9,Education,Cash,High,2024-10-28,79,1,31-50,0
+fac30dca-999e-43ce-9358-d5d05c16934e,71,Male,West Angelashire,8528.55,9,Environment,Cash,High,2023-03-13,674,2,71+,2
+3d20123e-3e78-4e71-8633-b0bab3d5a8a7,25,Other,Shelbyburgh,1350.98,5,Disaster Relief,Cash,High,2023-11-16,426,1,18-30,0
+454d4718-e43a-41b6-b053-f0cd66cfd29f,25,Other,Grossborough,2227.43,17,Disaster Relief,Cash,Low,2023-07-18,547,1,18-30,0
+393ccca6-348b-4522-8319-6ceaea4d8110,49,Other,West Josephburgh,8070.82,13,Health,Cash,Low,2023-07-05,560,2,31-50,2
+2989384f-af0e-458d-b425-94628ba2ea30,35,Female,Lake Oscarborough,6885.27,12,Health,Cheque,Medium,2024-01-10,371,3,31-50,2
+ea30cbd9-083e-4b08-9ed8-add7be46956f,43,Female,Port Christopherchester,5103.09,7,Health,Cheque,High,2024-03-17,304,0,31-50,1
+bdd2212c-db40-40fe-a532-7ec8f57f41b6,41,Male,Thomasview,1318.98,1,Health,Online,Low,2024-10-10,97,0,31-50,0
+82507ca0-aac7-46be-ab77-da25c19941ab,46,Female,Martinezchester,9136.16,1,Education,Cash,Medium,2023-04-20,636,0,31-50,2
+23410b96-ff8d-4991-8474-6373c0fa8ba7,65,Male,Keithtown,6864.5,11,Environment,Online,Medium,2024-10-28,79,0,51-70,2
+ade2aa2c-85a4-45e8-8c00-0f60f39c8f16,25,Female,East Derekshire,6289.41,10,Environment,Online,Medium,2024-12-02,44,3,18-30,1
+29a6fb01-7305-4c10-bc3a-44fc8b49e346,73,Other,West Bryanchester,1284.27,4,Health,Cheque,Medium,2023-10-12,461,1,71+,0
+176f30b7-83bc-4b30-90e3-dbbd7e04244e,58,Female,Port Derrick,8277.5,3,Animal Welfare,Online,Low,2023-09-03,500,0,51-70,2
+3f6af66e-489f-48a2-9d29-9e2e30f81ee6,70,Female,Parkerberg,5806.3,19,Animal Welfare,Online,Low,2024-07-25,174,2,51-70,1
+4c641776-5887-4de4-abab-1ad9767ff277,48,Female,Annettebury,2548.58,17,Disaster Relief,Cheque,Low,2024-04-15,275,1,31-50,0
+617f674d-6965-48c6-8bb7-3303e0239e6d,59,Female,South Janetfort,2909.32,5,Health,Online,Medium,2023-10-27,446,1,51-70,0
+9b457a1d-87f4-4fb1-8ad8-62c49f474701,71,Female,Zacharyborough,7877.7,15,Animal Welfare,Online,Medium,2024-09-21,116,2,71+,2
+49f87384-3a6f-4bb1-b44f-4777ca880535,61,Male,North Brandy,428.22,10,Animal Welfare,Cheque,Medium,2024-11-05,71,1,51-70,0
+2ec445ab-e241-448a-846c-00299b8cb574,62,Male,Jillstad,7963.07,3,Environment,Online,Medium,2024-03-18,303,0,51-70,2
+d180137c-49fb-4529-ad6c-b08c152ea650,48,Other,West Anna,1944.88,3,Health,Cash,Low,2024-05-18,242,0,31-50,0
+f1b16f9b-7132-4a7a-80ce-3a5fd9d6b633,72,Other,Lawrenceport,1709.27,3,Education,Cheque,Low,2023-06-23,572,1,71+,0
+5cd6c786-b78e-4c5f-a40d-0fcf495d8acf,73,Female,Rileyton,4404.75,10,Disaster Relief,Cheque,High,2024-10-31,76,0,71+,1
+3e73a1a0-7e1b-490c-8e4c-8d0209114f9f,49,Male,North Tracyhaven,2054.02,2,Disaster Relief,Online,Low,2023-06-08,587,1,31-50,0
+c2505558-dfea-4d8e-a325-97224a19aee8,72,Female,North Abigailhaven,1812.42,13,Education,Cash,Medium,2023-10-07,466,1,71+,0
+ecfea7e8-3361-405f-8bef-627f30755d98,33,Female,North Carloshaven,3463.37,6,Disaster Relief,Cash,Medium,2023-10-31,442,1,31-50,1
+e024fa2f-36ff-4577-8044-f8d530bfe4f5,60,Female,Blakeport,951.76,19,Health,Cash,Medium,2024-11-10,66,1,51-70,0
+dc3452ed-068a-4574-b6ef-1449aa6e3d38,22,Other,Kelseyland,1726.32,1,Education,Cash,High,2023-07-10,555,1,18-30,0
+b8f59c1f-c2e1-4e72-a455-3f60dfb91438,23,Other,North William,7784.92,12,Animal Welfare,Cheque,Low,2024-03-17,304,3,18-30,2
+d6a08742-8bdc-4854-a6f2-265c9f579b9c,43,Female,Port Stephanie,8713.91,18,Education,Cash,High,2024-12-23,23,3,31-50,2
+4f5556fd-b9d2-4816-ba5b-5588b43ccb6b,60,Female,Doyleton,9784.39,1,Environment,Online,High,2024-05-24,236,0,51-70,2
+46a9b5bb-a743-454e-afcd-385b7fcef4b4,27,Other,Brownside,4974.58,8,Animal Welfare,Cash,Low,2024-01-06,375,3,18-30,1
+997753ce-80dc-4324-8798-f041b735d112,38,Female,Dominiqueborough,2904.52,18,Education,Online,Low,2023-05-10,616,1,31-50,0
+67351cdc-ca0c-4024-820c-392f3d8855b1,23,Other,Lake Ian,9637.06,11,Environment,Cheque,Low,2023-09-20,483,3,18-30,2
+d56cd9fc-5ae3-4e67-959c-2fc60b8070fd,18,Male,Jeremyshire,8970.08,7,Health,Cash,Medium,2023-11-14,428,3,,2
+ce414534-91a9-4108-befb-91806907d6c0,65,Male,Christopherberg,2692.59,17,Education,Online,Low,2023-07-14,551,1,51-70,0
+55e30ded-23d3-4c27-b28b-1970a68bb845,69,Female,East Theresa,8315.57,1,Disaster Relief,Cheque,High,2024-05-08,252,0,51-70,2
+1cf159d7-9d18-47cf-9d03-29054114c251,29,Female,Medinaberg,9397.91,19,Animal Welfare,Cash,Medium,2023-07-12,553,3,18-30,2
+84e11df0-611d-457a-b9d7-4a9a0f743471,53,Other,Morganport,5102.51,7,Education,Cheque,High,2023-12-26,386,0,51-70,1
+8c2e414a-8832-45f2-aedf-3f545b91aac0,73,Male,Williamsside,8480.62,16,Health,Online,High,2024-02-16,334,2,71+,2
+7a94474a-954d-40a8-bb5e-848b280a179f,52,Male,New Scott,5472.74,18,Education,Online,Medium,2023-07-27,538,2,51-70,1
+afd28d59-cb46-4f38-afbe-8c5ac3423374,24,Female,Port Alicia,6214.5,10,Health,Cheque,High,2024-12-15,31,3,18-30,1
+e65c6ca8-0ca7-439a-b2ba-c9f8a6b0a0d6,49,Female,Cookefort,6623.54,19,Environment,Cash,Low,2023-10-14,459,2,31-50,1
+9d7d8be8-1af4-431d-acf9-262d3dda7d2b,77,Male,Lake Phillipside,7087.28,6,Animal Welfare,Cash,High,2023-05-02,624,2,71+,2
+5ea8a5ad-399a-4a93-85c8-702f4fb9a5d7,43,Other,East Teresa,1865.41,10,Animal Welfare,Cheque,Medium,2024-03-15,306,1,31-50,0
+a67de2ea-f26d-45a1-8be9-90a559de3324,37,Female,Websterbury,4206.01,2,Environment,Cash,Medium,2023-11-09,433,0,31-50,1
+59d39e6a-f1d5-4e12-ba91-6f7739a5f3f3,44,Male,South Saramouth,5530.86,7,Environment,Cheque,Medium,2024-08-10,158,0,31-50,1
+2caa9712-078c-497d-b4c6-26acdb9a2029,67,Male,Christopherville,2627.81,4,Health,Cash,Medium,2024-06-26,203,0,51-70,0
+728dae41-59ec-470d-ac0c-23e3fb10caa5,31,Other,West Angela,1683.27,15,Animal Welfare,Cash,Medium,2024-08-31,137,1,31-50,0
+d5754c73-de98-4a47-805e-1050f6a0a1a7,35,Other,Port Dennisfort,8224.5,19,Health,Cash,High,2024-06-02,227,3,31-50,2
+4d1ea25f-4484-4217-8048-80be55c4f4a1,78,Other,Ralphville,9572.2,15,Disaster Relief,Cash,Medium,2024-12-28,18,2,71+,2
+6b71ea8f-42be-434d-97cc-80dbf6fdf0c5,72,Male,East Tamishire,7546.58,9,Disaster Relief,Cash,Low,2023-09-11,492,2,71+,2
+b76d5053-973a-4e59-b31d-5b03f8f80386,67,Other,Heiditon,5786.07,16,Health,Online,High,2023-09-04,499,2,51-70,1
+f222cf6a-ca69-4ee1-bd11-7efbe242209a,33,Other,South Cynthiafurt,3982.6,14,Disaster Relief,Cheque,High,2023-08-03,531,3,31-50,1
+01fb301d-b98e-4bf2-81cc-56a80613b8ca,62,Male,Wilkinsonmouth,6454.29,5,Animal Welfare,Cheque,High,2023-10-08,465,0,51-70,1
+99a4fb50-80bc-446a-aa5e-e0d24307afac,58,Other,North Brendastad,9646.68,5,Education,Online,Low,2023-07-06,559,2,51-70,2
+c8e0cc65-1abe-4daa-b8c1-f1833ce84b6d,71,Female,East Karenmouth,6967.61,4,Environment,Cash,High,2024-06-27,202,0,71+,2
+aa77e087-8985-400c-9d27-747d4705242e,35,Male,West Charles,3657.21,3,Health,Cheque,High,2023-07-05,560,1,31-50,1
+f8ad19e7-0db4-4498-a6e1-f42cc89c594d,33,Male,Dannyhaven,9165.43,10,Environment,Online,Medium,2024-11-22,54,3,31-50,2
+61160f13-41bb-401e-b577-19d850b3dd91,56,Other,Garrisonview,416.09,9,Disaster Relief,Cheque,High,2023-11-11,431,1,51-70,0
+884c6da9-d838-4be7-b10a-e4f635203b48,53,Other,North Patricia,2917.54,13,Environment,Cash,High,2024-10-09,98,1,51-70,0
+28d39cd1-2990-4491-8fee-8d8300c6d12b,60,Female,North Cherylshire,5117.45,9,Health,Cheque,Low,2023-10-12,461,2,51-70,1
+a098cb4a-c048-4461-8a32-4c9beb656658,25,Female,Jonesville,4821.96,2,Environment,Cash,Low,2023-10-10,463,3,18-30,1
+cf268273-a5d3-41a6-ab5c-0db7d5c3a8c2,38,Male,Turnerbury,8350.19,8,Animal Welfare,Online,Low,2024-09-07,130,0,31-50,2
+3233a6e6-aa1d-4245-91ab-41a65a0b4392,45,Male,Clarkemouth,8361.59,19,Education,Online,Medium,2024-07-12,187,2,31-50,2
+6dda18f9-b921-40bc-b36b-c1d59ed38e3e,74,Female,North Deanna,5354.58,10,Animal Welfare,Cash,Medium,2023-02-23,692,2,71+,1
+612c67a2-7d4a-491c-aa87-e6e8a46372a8,72,Female,Port Jonathan,8820.94,18,Animal Welfare,Online,High,2023-10-21,452,2,71+,2
+3eb66365-c04d-4395-9a21-b0e0254a3287,24,Female,Rebeccaport,2742.46,10,Health,Online,High,2024-01-12,369,3,18-30,0
+adda3c03-4920-4a36-aecc-6cbd37cb1da8,66,Other,Pamelaview,5412.85,4,Environment,Cash,Low,2024-04-06,284,0,51-70,1
+a5e3aaaf-7577-4e8d-9c14-1cb04cec009e,27,Other,Kristinastad,9510.57,4,Disaster Relief,Online,Medium,2023-10-23,450,3,18-30,2
+6afe4c1e-bc63-4783-bc6e-db4748260fa5,31,Female,Morganchester,5973.16,14,Animal Welfare,Online,Medium,2024-07-22,177,3,31-50,1
+89aebcd5-d58a-410c-8460-290b679a2bb2,59,Male,Kerriborough,522.25,11,Education,Cash,Low,2024-02-02,348,1,51-70,0
+ccb72db5-0e23-49cf-b228-599ef138bb02,79,Other,New Matthewhaven,6273.01,16,Environment,Cash,Low,2024-09-16,121,2,71+,1
+d092bb69-1e03-4b7a-b481-deddb3ea3f0b,71,Other,New Chad,519.9,16,Animal Welfare,Cheque,Medium,2024-11-27,49,1,71+,0
+7aac4b2a-aa7d-4dae-b335-d916ff65beca,54,Other,Dennisborough,2191.66,20,Environment,Cheque,High,2024-07-12,187,1,51-70,0
+bd56758d-2e05-48e0-80a9-154a3b19d1fd,19,Male,Stanleymouth,1559.58,19,Animal Welfare,Online,High,2024-06-12,217,1,18-30,0
+689e3be9-8d3d-4b1c-9fc1-2dfb24fc85d7,30,Female,Vickiebury,3466.79,7,Animal Welfare,Cheque,Low,2023-04-23,633,1,18-30,1
+4aec53c3-c00e-4dc9-9795-05eadee939c1,45,Female,Salinaston,1338.37,15,Disaster Relief,Cash,High,2023-09-19,484,1,31-50,0
+a3355c02-87f9-4c14-bf7a-289c3f9f4e58,56,Other,East Ashley,4464.81,19,Education,Cheque,Medium,2023-03-21,666,2,51-70,1
+14330d19-30f7-4655-ab24-3fe5fcaf19c0,20,Female,Woodport,6440.61,4,Disaster Relief,Cheque,Medium,2024-03-15,306,3,18-30,1
+61ec7479-8e8c-4b84-a0dc-08054b9a2be4,41,Male,Payneborough,5649.12,15,Animal Welfare,Online,High,2023-08-14,520,3,31-50,1
+e0655392-9746-431d-a557-8e1c6c002c27,70,Other,Martinhaven,8883.04,2,Education,Online,Low,2023-04-15,641,2,51-70,2
+8374bbdc-c67a-42c5-92b8-b843c491275e,35,Female,Pittshaven,5442.34,6,Health,Cheque,High,2023-10-18,455,3,31-50,1
+eb508086-695b-4054-bf90-1ec09f1e3fa3,26,Male,Beckerborough,1710.31,2,Education,Cheque,Medium,2024-10-13,94,0,18-30,0
+24b4eac7-7b98-49ed-9919-565048f73f68,49,Female,Reidport,1901.48,17,Disaster Relief,Cash,High,2024-06-29,200,1,31-50,0
+e2e652fc-4fa7-4ba6-9c97-171704eddc54,18,Female,Patrickfort,2028.8,6,Health,Cash,Low,2023-06-09,586,1,,0
+f64a0727-9acf-4d2c-88f3-389b6156b507,45,Male,Murrayburgh,6107.23,18,Environment,Online,Low,2023-03-13,674,2,31-50,1
+9c336761-7f60-4383-b087-7cb192b8e774,46,Other,West Susan,9069.87,14,Education,Cheque,Low,2023-04-08,648,2,31-50,2
+72b4febe-cc8f-46bc-aae5-2c21e578036f,50,Male,Wilsonshire,3352.05,9,Education,Cash,Medium,2024-12-28,18,0,31-50,1
+062c1bbb-160e-4ecf-adb3-1d18ff30dbe3,47,Male,East Michelle,7692.27,20,Disaster Relief,Cheque,Medium,2024-11-13,63,2,31-50,2
+673944d3-0d71-4ace-85e8-b006cc1961d6,47,Male,Scotttown,4540.82,10,Environment,Cheque,High,2024-10-05,102,0,31-50,1
+755db1a4-3967-40b8-96b0-aaf2b99efcae,39,Male,Port Katherinemouth,149.21,19,Animal Welfare,Cheque,High,2023-12-08,404,1,31-50,0
+4e390690-8444-4bb8-baad-e6dc0967b743,38,Female,Lake Timothy,7811.03,9,Animal Welfare,Cheque,Low,2023-02-06,709,3,31-50,2
+ec20cd31-293d-4e1e-be13-1ad4676a36c5,48,Male,Taylortown,4729.34,8,Education,Cash,Low,2024-08-13,155,0,31-50,1
+f4828986-1139-4b5d-83ff-7f2884ba4f55,37,Female,Robinsonhaven,3423.44,15,Animal Welfare,Online,High,2024-07-29,170,1,31-50,1
+5d27a68f-86ca-420c-960e-d1dcfa4fb6e2,75,Male,Port Jerry,5487.65,15,Disaster Relief,Online,Low,2024-04-04,286,2,71+,1
+514ebbf2-3bce-4623-a856-cca73ea277a4,54,Female,West Mistyshire,6838.43,20,Education,Cash,Low,2024-06-15,214,2,51-70,2
+ed7596e0-136b-4350-a4a8-503723dcb2e3,72,Female,Hudsonville,7188.57,9,Disaster Relief,Cash,High,2023-06-18,577,2,71+,2
+598d8e7e-b396-4bee-9785-49bdc848b817,33,Male,Mollyside,4803.38,19,Education,Online,Medium,2024-06-12,217,3,31-50,1
+81b42875-ddc1-4e00-931b-1e6cb620fbcc,56,Male,Barberville,5382.34,2,Education,Cheque,Low,2024-12-01,45,0,51-70,1
+57655954-012a-486a-b80d-dffa5cc34059,54,Male,Lake Thomasmouth,9325.41,14,Health,Online,High,2024-05-03,257,2,51-70,2
+7635093c-50a7-470b-b528-8816ffcfeae2,27,Other,Tommyville,9380.89,20,Animal Welfare,Online,High,2024-01-28,353,3,18-30,2
+db49d3e0-4af1-4673-9366-749535d42738,77,Female,West Blake,9701.89,19,Disaster Relief,Online,High,2024-04-29,261,2,71+,2
+23d7fcd4-2a9b-4d70-8726-d488ff5dbfa6,58,Female,Jameshaven,4268.43,15,Health,Online,Low,2023-02-13,702,2,51-70,1
+5e696dd3-36f5-4cc9-a2ec-d5b1ef44b0d2,30,Male,Perezmouth,4151.2,4,Health,Cash,Low,2023-04-14,642,3,18-30,1
+335203f5-f661-45fc-8dbd-be8d75df0cc3,64,Other,Williamsmouth,6754.72,11,Health,Online,High,2023-05-24,602,2,51-70,2
+26f9e6fa-fb32-47ad-90b8-fa2a89ee9b20,22,Female,Rhodesmouth,206.76,15,Environment,Cash,Low,2023-01-20,726,1,18-30,0
+f77979a6-f360-443c-8fc6-2ee3d90cf446,45,Other,Hectorton,413.42,7,Disaster Relief,Cash,Medium,2024-07-03,196,1,31-50,0
+d4255a6e-3aac-47e4-a08e-e4bca806bc97,25,Male,North Mikeburgh,3361.3,5,Health,Online,Medium,2023-01-16,730,3,18-30,1
+c3571baf-767a-4255-8e29-08401c5fb522,25,Other,Lindseyborough,9507.66,18,Education,Online,High,2024-03-23,298,3,18-30,2
+2a861bd1-15dc-457e-8173-3476505042ba,46,Female,Patriciaton,1360.9,3,Animal Welfare,Cheque,Medium,2024-06-16,213,0,31-50,0
+6a29f4ea-be93-4755-b81b-a1f7fa9685a1,30,Other,West James,2440.48,12,Disaster Relief,Online,Medium,2024-09-16,121,1,18-30,0
+e8c4cc70-a538-45e0-9c14-ad75f13e0326,69,Male,South Pamelachester,8672.75,5,Education,Online,Low,2024-08-24,144,0,51-70,2
+2df5cde6-9f4b-41a1-a250-5c4d20459625,57,Other,North Erinfurt,9523.34,11,Environment,Cash,Low,2023-06-27,568,2,51-70,2
+4e1e8181-20e9-4fcc-967f-aa69ca3323ad,49,Female,Kingshire,7622.65,1,Disaster Relief,Cash,High,2024-09-29,108,0,31-50,2
+bbf40ee7-4c96-4370-993a-ead493435129,68,Male,Port Denise,3819.73,17,Education,Online,Low,2023-02-23,692,2,51-70,1
+e6465faf-2507-4859-b5fc-ba0e7cd6e4a7,77,Female,South Adam,1659.65,5,Education,Cheque,Low,2023-07-14,551,1,71+,0
+52114486-74c3-403b-9400-b8842cf3f483,49,Female,South Lori,1128.8,17,Animal Welfare,Cheque,Low,2023-07-23,542,1,31-50,0
+218152e3-e662-435f-881d-58c9cb3a1e78,25,Male,Bentonview,5433.97,5,Animal Welfare,Online,High,2024-01-31,350,3,18-30,1
+7f10d293-b5d3-406f-bac1-6ecd0bb07b61,62,Female,Port Beckyborough,1139.72,5,Environment,Cash,Low,2024-07-07,192,0,51-70,0
+1709f741-325f-4176-beb0-3117d38c492b,78,Female,Esparzaton,7836.61,18,Animal Welfare,Online,Low,2023-10-01,472,2,71+,2
+a6c58cde-9153-4ebc-adcf-cc2428b548f1,30,Female,Hannahview,3821.56,15,Environment,Cash,Low,2024-03-26,295,3,18-30,1
+fcdab29f-3555-400a-a40d-5a7b068e90a7,25,Other,Coxport,5344.48,13,Environment,Online,Low,2023-05-21,605,3,18-30,1
+019803d4-b570-4a2e-acad-f6496ed0344e,38,Female,Devonburgh,9505.26,7,Health,Cash,Low,2024-12-08,38,0,31-50,2
+e1d273b3-896a-439e-994b-2648ba81e73c,21,Female,Lake Michaelburgh,32.81,8,Education,Cash,High,2024-12-13,33,1,18-30,0
+d6c4b4e1-903a-4ab8-b1ac-2f3588fc6268,56,Male,Thompsonberg,6338.06,5,Disaster Relief,Online,Low,2023-07-23,542,0,51-70,1
+5b163793-1980-46af-967b-92639a342882,31,Female,Burgessland,4468.04,18,Disaster Relief,Cheque,Low,2024-01-03,378,3,31-50,1
+33c8725d-aa2b-48b6-ad3b-67846668e3a1,72,Other,North John,1999.21,10,Environment,Cheque,High,2024-04-17,273,1,71+,0
+9a1fb504-504a-418b-80cb-4bdf93e25163,32,Male,West Brandyhaven,3761.84,7,Education,Online,Low,2023-11-04,438,3,31-50,1
+a82f416c-46de-42f3-942f-bda3e4c56039,62,Other,Kennethport,1011.4,10,Animal Welfare,Online,Medium,2023-07-12,553,1,51-70,0
+dafdbc00-c181-452e-a864-0dd553c6796b,26,Other,Tamaraport,9224.25,18,Health,Cheque,Medium,2024-10-24,83,3,18-30,2
+ef244523-fba0-4604-b694-a77c3ec7cdf0,34,Other,Michaelton,3128.57,3,Environment,Cheque,Low,2024-10-20,87,0,31-50,0
+35425023-54ed-4754-bbe0-22bff131c6b0,33,Female,Johnsonborough,4140.77,1,Education,Cash,Low,2024-06-07,222,0,31-50,1
+7590ad35-370d-468b-a53e-77fd15f8169f,28,Male,Port Sarachester,7812.22,4,Education,Cash,Low,2023-06-17,578,3,18-30,2
+76cb1a5a-8151-48c5-9f5d-cf4a5204426d,27,Other,Mooreton,4652.41,8,Disaster Relief,Cheque,High,2023-08-27,507,3,18-30,1
+f2916a70-495c-4d33-a039-1965f785fc71,25,Male,East Troy,3983.86,5,Environment,Cheque,Low,2024-06-15,214,3,18-30,1
+9e1cb143-f05c-49e9-9b34-8e7dab4d6074,60,Male,New Brenttown,6911.22,18,Disaster Relief,Cash,High,2023-08-15,519,2,51-70,2
+8e2015ac-779c-4ad1-a5a3-6b99408adcf3,52,Male,East Marcus,9034.53,8,Education,Cheque,High,2023-04-23,633,2,51-70,2
+df07c6bb-7995-49cf-a965-c70b4a0acc98,62,Male,Mikeshire,4504.76,9,Animal Welfare,Cheque,Medium,2023-12-10,402,0,51-70,1
+e6e53670-fbc6-44c9-9d0d-001e3d9978b5,42,Other,Linbury,7768.25,19,Health,Cheque,Low,2023-12-02,410,2,31-50,2
+9f58adf5-5c84-48b3-984e-6ba70d2c6da7,58,Other,Lake Christina,2604.91,3,Animal Welfare,Cheque,High,2023-03-05,682,1,51-70,0
+2fc5ee90-7b55-466d-87ec-4c57fcd2aee9,49,Male,Lake James,6995.67,15,Disaster Relief,Online,High,2023-07-30,535,2,31-50,2
+acb042a4-10cb-40cd-96db-90ebbf828b09,70,Female,Beckertown,3724.23,5,Disaster Relief,Cash,Low,2023-11-26,416,0,51-70,1
+92865856-c174-49dd-a9c1-c9610857ee4c,20,Male,Craigbury,8950.91,18,Health,Online,Low,2023-06-09,586,3,18-30,2
+f7d42f93-ea9f-452a-a001-c0d661d5b416,47,Other,Gracemouth,6237.33,3,Disaster Relief,Cheque,Low,2023-11-26,416,0,31-50,1
+fcb7f762-a792-4950-9f69-4813a42aafe3,28,Other,Lake Abigailmouth,8075.58,1,Health,Cheque,Medium,2023-11-30,412,3,18-30,2
+9d7c891e-a313-43bb-b047-142edf47288b,79,Other,Davidview,2508.45,2,Education,Cheque,Low,2024-11-11,65,0,71+,0
+ca4a525f-c194-490c-aaf6-4a84db64c007,46,Female,North Charles,2525.07,16,Education,Cash,Low,2023-05-04,622,1,31-50,0
+7cc3ee77-0648-48ef-8cb5-e9c5620441fc,36,Other,Port Daniel,3480.23,2,Education,Cash,High,2024-07-17,182,0,31-50,1
+9e2090e8-4392-45cf-a1bf-3af0c9821148,42,Other,Tyroneland,4404.03,20,Environment,Cash,Medium,2024-02-25,325,1,31-50,1
+443279c7-8fe4-4ffe-a6d6-c9093b490521,46,Male,Lake Richardchester,2562.53,5,Education,Cheque,High,2023-07-22,543,1,31-50,0
+06d439b1-ebf8-4d72-981b-960f53a38767,79,Female,Port Luis,2180.05,1,Animal Welfare,Cash,High,2024-12-30,16,0,71+,0
+24854f5d-bf43-445d-8ca2-96c2abdeba94,53,Female,Williamsberg,8962.56,7,Education,Cheque,Low,2023-04-18,638,2,51-70,2
+68ca2517-cee9-422e-ab16-57007939876f,33,Male,Ericburgh,7715.42,8,Disaster Relief,Online,Medium,2025-01-06,9,0,31-50,2
+148a72d6-0312-4946-9122-b56a9ed318a0,70,Female,Coxborough,897.5,7,Animal Welfare,Online,Medium,2024-09-21,116,0,51-70,0
+8aa24469-1b71-4a22-8db6-50986d215bab,24,Male,Nicholasside,6446.09,5,Animal Welfare,Online,Medium,2023-11-11,431,3,18-30,1
+a9480987-49c9-415f-830c-7d1b3ffe7580,64,Female,Jodyport,5606.44,14,Environment,Online,Low,2024-07-07,192,2,51-70,1
+7f7764b1-d841-40c3-8e66-5fd01d964b20,34,Other,Jordanborough,4371.16,3,Animal Welfare,Online,Low,2023-06-28,567,3,31-50,1
+0f4431ce-3f45-4a3d-91f5-0501a8549775,48,Other,South Steventon,5201.63,12,Health,Cheque,High,2023-11-10,432,2,31-50,1
+8980a449-3693-4791-bdf5-e04cdaa481ef,61,Female,West Dominicfurt,4930.01,11,Disaster Relief,Online,Medium,2023-06-25,570,2,51-70,1
+03e37bed-3d0b-4cf1-8565-67938e440bdf,22,Male,New Benjamin,710.51,13,Environment,Cheque,Low,2023-07-13,552,1,18-30,0
+008efba3-09ae-4e08-b91f-4fa562951894,72,Other,Johnsonberg,1551.34,5,Health,Online,High,2024-09-12,125,0,71+,0
+7c8d5c15-f4a9-4b36-8b0b-dbd89627ad0b,20,Other,Brandifort,5078.11,13,Animal Welfare,Cash,High,2023-12-22,390,3,18-30,1
+0e788b83-024e-4119-ae1a-cf149c5867f1,40,Female,Phillipsview,7226.65,18,Health,Cheque,Low,2023-04-09,647,2,31-50,2
+6d7c41ce-82ec-4141-aa14-73623f777d70,22,Male,Davisfurt,5383.27,15,Environment,Cheque,Low,2024-07-10,189,3,18-30,1
+71599c8d-4d26-45f7-a82a-a8a02d4c768b,31,Male,Donaldberg,8793.6,13,Animal Welfare,Cash,Medium,2024-10-03,104,3,31-50,2
+37f1af02-52c9-43c9-86f6-5e393b7a0f0b,31,Female,Lehaven,2004.38,11,Education,Cheque,Low,2024-06-04,225,1,31-50,0
+10390350-401f-4219-aa8b-140a8e3061ab,33,Other,Lisahaven,7968.14,4,Animal Welfare,Cash,High,2024-08-19,149,0,31-50,2
+fff33228-bdb4-404a-884b-20ed2e913d6b,69,Female,South Scottborough,1453.96,3,Health,Cheque,Medium,2023-07-04,561,1,51-70,0
+a5fb882d-159f-406d-8cfc-c4ea7f2e393c,43,Female,Meyerland,5866.3,11,Education,Online,High,2024-12-03,43,0,31-50,1
+285b8299-2f69-4d2a-a5c4-7174179fb65f,29,Other,Philipbury,3806.03,7,Animal Welfare,Cheque,High,2024-08-03,165,0,18-30,1
+d74a1b6e-eb7c-4bf6-b557-b23163cb175a,19,Male,Lake Dennisland,9980.12,16,Disaster Relief,Cheque,Low,2023-07-25,540,3,18-30,2
+d8a2e4d8-3281-48d5-b490-44ce9d8c17ea,51,Other,East Alyssa,3971.44,2,Health,Cash,Low,2024-11-27,49,0,51-70,1
+f1b80a2c-4c3d-4781-9ad5-1bbeab56286a,19,Male,Jasmineview,5780.78,5,Disaster Relief,Cash,Low,2024-08-03,165,3,18-30,1
+1a4a34c3-c540-4e78-b93a-e5984796a7bc,64,Other,Lake Edward,8888.27,4,Education,Cheque,Medium,2024-09-19,118,0,51-70,2
+7f28651e-b226-4ffe-a001-e749b5819c4f,26,Female,Jaredfort,7296.17,10,Education,Online,Medium,2024-03-16,305,3,18-30,2
+2c6b9c5a-85db-4b40-ae36-39f37896555a,51,Female,East Kristopherton,7867.4,19,Health,Cash,Low,2023-08-28,506,2,51-70,2
+bf88f162-98c2-4349-a90f-740c370ce8c4,36,Male,Blevinsfurt,311.82,11,Environment,Cheque,Low,2023-07-04,561,1,31-50,0
+5489a480-d5e6-4cbd-b171-d50714dcba32,30,Male,Brownside,6638.59,18,Environment,Cash,Low,2023-01-20,726,3,18-30,1
+386fc3f9-86c0-4f7d-8f20-d364b703a6cc,61,Male,Lindsaystad,1212.35,4,Animal Welfare,Cheque,Low,2023-02-03,712,1,51-70,0
+55b7f114-66bc-4919-9456-c79320f2f9fc,37,Other,North Carlymouth,2943.48,5,Education,Cheque,Medium,2023-01-23,723,1,31-50,0
+42c18cba-90bb-40d8-afcb-1f89c8223dd3,45,Other,Michaeltown,2033.5,12,Animal Welfare,Cash,Low,2025-01-01,14,1,31-50,0
+bc094b41-299c-4d8d-aedd-6144d4c84c5d,18,Female,Lake Emilyfurt,7446.67,16,Education,Cheque,Low,2023-02-02,713,3,,2
+b151f7e0-8cb5-4aa8-9c2c-046ef7d375a3,40,Male,Port Marymouth,383.66,1,Environment,Online,Medium,2023-08-27,507,1,31-50,0
+9799883b-dbb7-4de1-9e20-fc208400cd0f,52,Male,Robertsfort,8452.67,20,Education,Online,Low,2023-03-31,656,2,51-70,2
+d54ef377-5f2f-4738-bc91-af0d6e8ee9b0,74,Male,Tammyfort,226.64,17,Animal Welfare,Online,High,2023-03-06,681,1,71+,0
+dc48628a-8037-4dd7-82bf-7b9def7c2d04,75,Female,East Bradleyshire,6816.55,15,Disaster Relief,Cash,Low,2023-05-10,616,2,71+,2
+b2331c4d-cbdb-45f8-a3ee-65e5b2d21872,46,Other,Martinhaven,8196.61,11,Health,Online,Medium,2024-07-24,175,0,31-50,2
+aba80563-3a42-443a-92fc-a7a012786a0a,70,Male,Castilloview,2012.64,8,Health,Cash,High,2023-06-14,581,1,51-70,0
+5e579222-57d2-4964-b629-940b473b8475,61,Female,Williamsmouth,3274.81,19,Education,Cash,Low,2023-04-26,630,2,51-70,0
+e6b97bd9-c133-4d63-9ac3-1d91a7e89844,25,Other,Bradyshire,3947.14,9,Health,Cash,High,2023-11-10,432,3,18-30,1
+640339f7-6ddd-4bf0-9bd8-3908ba78b1a4,19,Other,Santiagoside,5176.03,6,Education,Cash,High,2023-04-04,652,3,18-30,1
+a78d1a03-b542-432f-ae43-4411c1c479a1,59,Other,East Edward,1161.0,15,Disaster Relief,Cash,Low,2024-08-08,160,1,51-70,0
+dbf0f19b-9585-4f53-a168-88d8d65bb1dd,63,Male,Jacksonville,6521.37,4,Health,Cheque,Medium,2023-07-29,536,0,51-70,1
+a24919a5-5bf2-4bb9-b011-396e2a58d2c6,22,Male,Lake Katrina,6509.62,15,Disaster Relief,Online,High,2023-08-26,508,3,18-30,1
+b66f687f-a0d0-435a-9d40-01387098ee44,70,Other,Hintontown,5705.21,20,Education,Cash,Low,2023-08-30,504,2,51-70,1
+fe081b2b-a211-474d-be68-22b094f4c96f,37,Male,South Bradley,1010.58,15,Education,Cash,Low,2024-04-19,271,1,31-50,0
+86052044-a880-4fe0-a84c-c595add7a68f,71,Female,Natalieview,4710.4,7,Health,Online,High,2024-02-14,336,0,71+,1
+a91afda7-7c20-4046-9ebf-16e34e3340ab,56,Other,South Leeton,9923.12,8,Disaster Relief,Online,Medium,2024-06-02,227,0,51-70,2
+8841f028-f4e1-4fc1-8c90-7394ef9b8b3e,53,Other,Robinborough,560.17,19,Health,Cheque,High,2024-05-18,242,1,51-70,0
+b20331c7-d2c2-48cc-8320-bb772c9efe83,60,Female,West Lisa,7790.24,10,Environment,Cheque,Medium,2023-11-16,426,2,51-70,2
+14d1999e-be18-4800-99f8-d0651c1f28e2,63,Male,Port Kristenland,8931.79,13,Environment,Online,High,2023-09-26,477,2,51-70,2
+01be73ac-04f6-4f34-b03a-170b28d8d301,19,Other,East Jacqueline,5972.68,9,Health,Cash,Low,2023-12-07,405,3,18-30,1
+b1a4d8ac-c2ef-4a78-a255-89931db63521,44,Female,Lake Scottfort,7110.36,19,Animal Welfare,Cheque,High,2023-04-18,638,2,31-50,2
+63e356a2-c509-4c3f-b381-6ae26fbf9e90,19,Other,Davisview,9263.37,12,Environment,Cheque,Low,2024-08-20,148,3,18-30,2
+65071ff6-ee1f-4058-b462-07e95a8e95ac,21,Other,Jensenview,5759.51,14,Animal Welfare,Online,Medium,2023-03-02,685,3,18-30,1
+f100cb64-6e26-4450-9257-0dac82a87261,18,Female,Port Anna,9181.06,1,Health,Cheque,Low,2023-11-07,435,3,,2
+fe76fa09-35b1-4a83-9cab-338ca1cf83f4,27,Other,Gonzalesborough,2061.37,13,Disaster Relief,Cash,High,2023-08-07,527,1,18-30,0
+eb89e1fa-b307-40e3-af31-913fbb5ed1c5,29,Female,Thomasside,2925.1,18,Health,Cheque,Low,2023-07-21,544,1,18-30,0
+a6410fdc-645b-419b-a2f6-42bab0f9963d,58,Male,Parkburgh,471.58,1,Health,Cheque,High,2023-10-09,464,1,51-70,0
+88a2c463-e1f7-49ca-9770-33f039ea7259,20,Female,East Kevin,2713.58,12,Animal Welfare,Online,Low,2023-01-19,727,3,18-30,0
+4d76d7df-b725-4286-85f9-20194e72b1c9,21,Female,Port Elizabeth,4490.83,1,Health,Cash,Medium,2024-06-03,226,0,18-30,1
+693f25da-db9b-479d-84d3-a85c9457bde8,29,Male,Rossbury,7684.27,10,Animal Welfare,Online,High,2023-10-10,463,3,18-30,2
+aa8c9f28-58f1-450b-988f-4cb9ae1d308d,56,Female,New Jacob,964.95,7,Education,Cheque,High,2024-05-28,232,1,51-70,0
+8722c79e-df55-4caa-9a1e-101372f71296,70,Female,South Christina,7133.91,8,Animal Welfare,Online,Low,2024-03-07,314,0,51-70,2
+89a3db77-f720-4a28-bbfa-e8d0f509722c,75,Female,Darlenebury,933.76,4,Environment,Cash,Medium,2024-10-18,89,0,71+,0
+bbf2a509-3c81-45c5-a7ad-a818888b9341,26,Other,Matthewfurt,6880.79,6,Environment,Cash,Low,2023-03-13,674,3,18-30,2
+29ccbb57-17fb-4697-9664-c493647a3b3e,45,Female,West Timothytown,3088.41,17,Animal Welfare,Cash,Low,2024-06-20,209,1,31-50,0
+d18e8799-19c8-46a2-9491-d81bf0d2c9cb,28,Male,South Andrew,5147.49,10,Education,Online,High,2023-04-02,654,3,18-30,1
+d1ab5b52-ac0f-4a49-87f9-a2d6b6c67c01,79,Other,New Paulafurt,2381.31,5,Animal Welfare,Online,Medium,2023-12-22,390,0,71+,0
+f64ad836-c3c6-4c81-b249-fa62b7ba0225,23,Male,Garrettmouth,3257.06,9,Disaster Relief,Cash,Low,2023-11-11,431,3,18-30,0
+69f654d3-985d-425d-a862-36ceaa900904,73,Female,Milesfort,5075.67,8,Animal Welfare,Cheque,High,2023-11-07,435,2,71+,1
+0a9345f7-058f-4f7e-8105-b3c040ed0836,52,Other,Colonburgh,7823.7,5,Animal Welfare,Cash,Low,2024-06-22,207,0,51-70,2
+1ae04fe1-26d6-4dc4-a4b2-6eadf7a0da4b,31,Male,West Suzanne,181.21,7,Environment,Online,High,2024-09-09,128,1,31-50,0
+ff1ff52b-0efc-4f74-8313-ce7779ca165c,34,Other,Cunninghamport,512.75,18,Education,Cheque,Low,2024-12-14,32,1,31-50,0
+89861acd-9fae-4ab8-8e6a-3ecb23327d93,36,Male,North Brittanytown,4380.93,6,Animal Welfare,Cash,Low,2024-07-27,172,0,31-50,1
+bae2ee65-84c6-4043-957a-c19c7edebf75,32,Other,Port Bretthaven,5331.0,13,Animal Welfare,Online,Medium,2024-11-16,60,3,31-50,1
+5709468f-5c11-42d8-bdab-cdb0eeda67c6,50,Male,North Martha,8232.85,13,Health,Online,High,2024-02-05,345,2,31-50,2
+4913fd0c-7b38-4f22-92c5-906133baa9ef,77,Other,Brownburgh,3118.33,5,Health,Online,Medium,2024-06-26,203,0,71+,0
+2f814e4a-98c7-408e-b666-080a2e31e941,47,Male,West James,4257.18,17,Health,Cheque,Medium,2024-02-11,339,1,31-50,1
+39660f00-4649-4aba-b702-34646553ab03,73,Male,West Mitchellland,7206.0,20,Education,Cheque,Medium,2023-02-14,701,2,71+,2
+c42c9cfb-b9bd-4fe9-a282-3cbf01c03026,31,Female,East Danielport,817.61,10,Education,Online,Low,2024-05-15,245,1,31-50,0
+a578f1ce-2caf-4b65-84dd-b2a497c45a0a,54,Female,New Nicoletown,7666.62,7,Health,Cheque,Low,2024-10-08,99,0,51-70,2
+b70de3d0-fcb8-4c90-9ca7-1af2de3fcf1c,69,Other,Lake Marcus,7979.08,15,Animal Welfare,Cheque,Low,2024-05-26,234,2,51-70,2
+3501f783-4148-4d0b-8226-2dbb735aa71e,80,Male,East Johnton,5740.32,4,Education,Online,Medium,2023-03-09,678,2,71+,1
+3cbabe27-4a98-4afc-b7b3-5eed7b0c844b,74,Female,Paulfurt,9781.23,6,Health,Online,Medium,2023-11-10,432,2,71+,2
+11eca793-4190-4cad-aa8a-55be12c037dc,39,Other,Harriston,8661.21,10,Environment,Cash,Low,2024-09-03,134,3,31-50,2
+49a2d8a1-7512-4b70-bc84-9cf79202cb7d,47,Male,Lake Johnfort,6197.67,4,Environment,Online,High,2023-09-17,486,0,31-50,1
+62ff0d03-8d30-4f73-a22f-fc4bec0bd4de,27,Male,East Anthonymouth,7956.85,7,Education,Cash,Medium,2023-11-07,435,3,18-30,2
+b1261c8b-78e8-4772-9c10-ebf29db7f5a8,54,Female,South Kaylashire,2979.31,16,Animal Welfare,Cash,Low,2024-06-07,222,1,51-70,0
+0a3d4acd-bdc5-4d0f-89ba-ed170add9dbb,35,Female,Michaelmouth,7559.76,19,Health,Cash,Low,2024-03-29,292,3,31-50,2
+64185bd1-6ea7-4f2b-b4f5-5e393b615583,50,Other,Port Alexander,333.4,13,Environment,Online,Low,2024-02-01,349,1,31-50,0
+38c4adb1-795b-438e-a9ae-55a2a2f3209e,62,Male,Elizabethstad,1367.76,14,Health,Cash,Medium,2023-11-23,419,1,51-70,0
+2a8a331e-bc44-4cb4-9a19-473276e32546,60,Other,Lake Josephshire,8658.47,16,Environment,Online,Low,2024-12-12,34,2,51-70,2
+8bf7bc06-64bc-47be-90e1-fc9cb395b8f4,34,Male,East Garyshire,8825.38,17,Environment,Online,Low,2024-09-23,114,3,31-50,2
+60cb3bb8-0b2c-4235-9bcf-1bc0bc28a76c,37,Other,Lake Isabel,1011.6,8,Disaster Relief,Cheque,Low,2024-08-12,156,1,31-50,0
+71a92108-6dcb-4fd2-ac2a-a9299ea90c09,49,Male,Port Craig,3594.09,18,Education,Online,Medium,2024-03-01,320,1,31-50,1
+03e046d7-f4db-445c-ab73-c3b5124406d4,27,Other,Port Morgan,8502.99,6,Environment,Online,Medium,2023-10-08,465,3,18-30,2
+ebc6ecfa-30bb-4d33-bd28-fc2729a06c7a,43,Female,Patelfort,8342.1,9,Education,Cash,Medium,2023-02-13,702,2,31-50,2
+ca671921-2164-47be-8eec-66b8020bbb00,39,Female,North Alyssaburgh,2709.36,4,Disaster Relief,Cash,Medium,2024-04-15,275,0,31-50,0
+8104ffef-d537-4e44-bc42-bdbdc49a4b39,42,Female,Port Scott,5680.55,13,Animal Welfare,Cash,High,2024-09-20,117,3,31-50,1
+56db3687-2f8f-4c0c-8351-4a640b9b0086,43,Female,Sylviachester,9551.4,19,Environment,Online,High,2024-04-28,262,2,31-50,2
+28b2dd8d-d2bc-4c75-9f51-368e17f7c6b6,77,Male,New Billytown,9113.6,2,Disaster Relief,Cheque,High,2023-04-09,647,2,71+,2
+8c654195-5077-4a06-b9cb-a43ec49defc3,44,Female,Jessicafurt,5726.05,2,Education,Cash,Low,2024-06-12,217,0,31-50,1
+ea06c49a-48fc-4357-a4a1-9f9416c594b1,39,Male,West Haroldport,885.82,20,Animal Welfare,Cash,High,2024-09-06,131,1,31-50,0
+f4a3a8df-ad8d-4e0b-8e29-743043a8294b,78,Male,Brianton,7844.0,14,Health,Cheque,High,2023-06-07,588,2,71+,2
+5afc40a4-3f91-4c7c-abfa-b484056badbd,55,Female,Gregoryside,5167.01,12,Animal Welfare,Cash,Medium,2023-06-27,568,2,51-70,1
+2149273b-e833-4871-b9d5-f827fb5a2bc6,70,Other,South Andrewport,8864.93,4,Animal Welfare,Cash,Medium,2024-08-05,163,0,51-70,2
+73d31971-9eca-4461-a45c-e8e09252aff6,69,Male,Jonathanbury,7348.23,18,Disaster Relief,Online,Medium,2025-01-12,3,2,51-70,2
+f15707c8-a68b-45e8-9282-d3fce5d919a0,31,Female,South Johnbury,5360.12,17,Education,Online,Low,2023-08-24,510,3,31-50,1
+9c535b75-f28a-49a1-8adb-2b43f2493775,31,Male,West Timothy,9888.89,14,Disaster Relief,Cash,High,2024-08-13,155,3,31-50,2
+afc7c04a-7ebf-422f-bd11-1230fad38e7a,22,Male,South Adam,6091.37,10,Health,Cheque,High,2023-04-12,644,3,18-30,1
+8c5c1208-b79b-40bb-ae45-6eeb1618e537,54,Male,Carolmouth,2769.75,14,Health,Online,Medium,2024-08-29,139,1,51-70,0
+059587dc-1c3e-406f-b5c6-99ee76702baa,56,Female,Ramirezmouth,4910.67,9,Animal Welfare,Cheque,Low,2024-11-09,67,0,51-70,1
+8918bcf3-6781-4167-b25a-16fa17408396,27,Other,Piercefort,504.46,2,Disaster Relief,Online,Low,2024-02-18,332,1,18-30,0
+e5b532ac-6f1e-4caa-885b-45fc0829a83c,80,Female,Meganstad,900.41,10,Environment,Cash,Medium,2023-08-21,513,1,71+,0
+bf9aa6a0-a14b-4558-b48d-79a6c6e98922,50,Other,Dawnside,3377.69,18,Health,Cheque,Low,2024-07-07,192,1,31-50,1
+f7caee32-920e-4726-a4ce-e0cb329e61ec,61,Female,Spearsstad,6058.51,13,Health,Cash,Low,2023-07-11,554,2,51-70,1
+b3cafa54-c6d5-4462-a9d7-3ed7b449006b,39,Male,South Matthewside,4380.01,4,Disaster Relief,Online,Low,2024-07-18,181,0,31-50,1
+578b6ec5-e806-4f02-955c-6eb367bd05db,33,Female,Sandraside,6434.11,9,Animal Welfare,Cash,Low,2023-12-21,391,3,31-50,1
+40d0516e-edbf-452b-a7f8-178be20bff9a,18,Male,East Robert,9147.94,19,Animal Welfare,Cheque,Medium,2024-09-15,122,3,,2
+80283d14-d3d2-48c1-ab00-36c4757f6499,61,Other,North Hannah,829.49,2,Animal Welfare,Online,Low,2023-04-24,632,1,51-70,0
+766b1a10-80ec-44a0-aa5e-fad2034b5da8,58,Other,East Peter,8884.55,10,Disaster Relief,Cheque,High,2024-04-06,284,2,51-70,2
+ed985309-caac-4155-bac7-0498fc40b3ff,24,Other,Reedmouth,9345.77,13,Education,Cash,High,2024-04-06,284,3,18-30,2
+1146c6f0-d70a-42cb-ba3c-0c42af6fce11,67,Male,Angelastad,7665.72,20,Animal Welfare,Cash,High,2023-06-04,591,2,51-70,2
+bcf07a7e-e603-4063-a5fc-3d9648408ebc,39,Male,Lake Ericchester,1173.89,1,Environment,Cash,Medium,2024-09-27,110,0,31-50,0
+f23cef63-7b2a-408c-a70d-3de184227579,59,Male,Lake Richardmouth,2890.13,16,Disaster Relief,Cash,High,2024-09-12,125,1,51-70,0
+0d20f372-035d-4734-91ef-de12442675f9,34,Female,New Eric,4445.68,2,Animal Welfare,Cash,Medium,2024-07-14,185,0,31-50,1
+ce232306-a3ed-44d5-89d9-1dc09f1b04c6,29,Male,Lake Joshua,1919.23,12,Environment,Cash,High,2024-02-17,333,1,18-30,0
+9eac4a8e-e48b-4e4c-8daf-da33f151d243,46,Female,Lake Gary,5038.52,15,Health,Cash,High,2023-06-01,594,2,31-50,1
+0af063fa-c8ca-4757-a87c-8e9d37c1c0ad,65,Other,West Tracy,8058.48,10,Health,Cheque,Low,2023-02-10,705,2,51-70,2
+a9c5bb0d-fbd9-4dd2-8a36-0ce4811b2ea2,27,Male,Cohenmouth,3685.26,6,Education,Online,High,2023-10-06,467,3,18-30,1
+f76ec074-657b-4e0c-b186-ce73bc43d891,46,Male,Brittanyfurt,735.52,17,Environment,Cash,High,2023-07-28,537,1,31-50,0
+6f325c00-4d9a-4b7d-98d4-ff1989ada4a2,58,Female,South Craigstad,7894.92,12,Environment,Online,Medium,2023-09-07,496,2,51-70,2
+fedb2a74-872b-4a46-a888-3d6f5ce05054,58,Male,Soliston,1078.55,7,Environment,Online,Low,2023-03-05,682,1,51-70,0
+efbb6b7b-c837-4dfa-b351-9275d3abc31f,49,Female,Ellenview,9973.34,15,Environment,Cash,Medium,2024-08-07,161,2,31-50,2
+d3d52d6a-6807-42f4-a895-9f9a3ed92202,20,Female,Lake Jeremy,4412.27,17,Environment,Cash,Low,2024-05-21,239,3,18-30,1
+b67ca92f-b57c-4000-a9eb-60c8f2551b23,34,Male,Lindabury,8560.62,15,Environment,Cash,Low,2024-08-07,161,3,31-50,2
+153576b5-acef-4a34-a19f-dba58a6abde2,76,Male,Abigailborough,4899.91,5,Health,Cash,Medium,2024-08-21,147,0,71+,1
+040fa6f9-1d3b-4797-8605-bc7858aed7e6,67,Other,Kimberlyside,7480.8,8,Animal Welfare,Cheque,Low,2023-08-24,510,2,51-70,2
+82b7ba31-3552-4199-ae0a-2c4aaf990c73,30,Other,North Meredithbury,2302.62,20,Health,Cash,Low,2023-01-22,724,1,18-30,0
+85fe3b9f-9e4f-4f7d-88d5-64d275687234,35,Other,South Richard,3166.32,11,Disaster Relief,Cheque,High,2023-09-20,483,1,31-50,0
+d30f74d3-6230-4faa-b7dd-0a23a6082f06,55,Female,Torresshire,2759.83,5,Education,Online,Medium,2023-05-03,623,1,51-70,0
+38b29e4e-f276-4b95-bf27-d7ed94ae44af,78,Male,Perkinsberg,927.04,16,Disaster Relief,Online,High,2024-12-22,24,1,71+,0
+ac6e5edb-0524-4d33-bfcc-eac1e37d243a,22,Male,Salazarport,8779.4,2,Environment,Cash,Medium,2023-04-17,639,3,18-30,2
+fda6b32a-958b-4ccb-b012-2689d93563ad,53,Male,New Christopher,1466.66,12,Animal Welfare,Online,Low,2024-03-19,302,1,51-70,0
+35f35d26-9195-49d4-879a-732a3d1e9654,40,Other,West Ethan,9184.82,10,Health,Online,Medium,2023-07-30,535,3,31-50,2
+be6f6e1e-43ad-4058-aa7a-dd328f7506a5,38,Male,West Kevinmouth,3755.22,6,Education,Cash,Medium,2024-03-05,316,0,31-50,1
+5a0a9369-57b7-4175-8170-8ef9a62c3756,36,Female,Cruzside,4097.0,1,Education,Cheque,Low,2024-12-28,18,0,31-50,1
+c35c0896-7402-4ce0-9ad7-67e2b0191129,63,Other,West Susan,787.63,5,Education,Cash,High,2023-12-09,403,1,51-70,0
+8ad889da-78e6-4739-a6f6-d08849b53b3a,58,Male,Milesview,4534.77,6,Disaster Relief,Cheque,Low,2024-06-10,219,0,51-70,1
+839045db-9817-47b1-98d0-3dd91fc079bb,24,Male,Michealport,726.78,16,Animal Welfare,Cheque,High,2024-01-15,366,1,18-30,0
+17672df4-e7ee-48af-8de1-1688fc9996d2,31,Female,North Justinhaven,3578.28,18,Disaster Relief,Online,High,2023-09-28,475,3,31-50,1
+2832f6c7-70a7-40f7-a287-9ebccdb88ec2,44,Other,Port Christopherville,222.68,3,Environment,Cash,Medium,2024-03-02,319,1,31-50,0
+efa0fcea-5638-4202-b12b-53aa470ebe65,21,Other,Hernandezton,5806.95,13,Animal Welfare,Cheque,Medium,2024-01-05,376,3,18-30,1
+cb820134-8ea9-4513-91a0-2df81cf6a76b,65,Male,North Ericside,4974.76,15,Education,Cash,High,2024-01-20,361,2,51-70,1
+2516ccb8-0967-4da1-bf88-5f152536dddb,34,Female,Maryview,8590.38,10,Health,Online,High,2023-05-31,595,3,31-50,2
+7bdcbe29-3600-4c42-90c4-247b84ff8fa4,65,Other,New Lauriebury,7614.31,13,Health,Cash,Medium,2023-12-02,410,2,51-70,2
+476e0011-1112-48c5-b863-53ef9a52430e,78,Male,Cannontown,6655.42,3,Education,Online,High,2024-02-20,330,0,71+,1
+75b8dfb0-cd26-4411-a6b6-5fab4d5d1170,40,Female,Griffithborough,1598.15,20,Disaster Relief,Cheque,High,2023-08-15,519,1,31-50,0
+d52ed9c8-5202-4ebd-abd7-8843baa82844,70,Female,New Ronnie,1874.96,13,Health,Cash,Medium,2024-06-11,218,1,51-70,0
+8063da62-12c1-4c74-a6d3-ec4bfddaf95b,66,Other,Carterview,8905.28,14,Education,Cash,Medium,2023-09-24,479,2,51-70,2
+5a085b62-bec4-41e8-9abb-4087d58f4119,40,Other,South Joshua,3486.62,10,Health,Online,Low,2024-07-27,172,0,31-50,1
+2ef4577e-ae96-456e-bd0d-a027a612336b,69,Other,Lake Richardberg,26.38,20,Environment,Cash,High,2023-05-08,618,1,51-70,0
+da41c29a-5057-4067-bcfc-825ffbdd011e,55,Female,Brandonville,678.06,14,Health,Cheque,Low,2024-10-28,79,1,51-70,0
+1d152700-7907-4f45-998b-f0cc44fce42a,80,Other,Gonzalesstad,980.85,9,Disaster Relief,Online,High,2023-01-16,730,1,71+,0
+012bcdb6-dc01-4779-9ad5-d359d6247318,22,Female,Alyssafort,8484.07,20,Disaster Relief,Cash,High,2024-04-11,279,3,18-30,2
+8f3f6d83-8707-470f-a5e5-c12daa5cf4d3,70,Male,Rothchester,5323.74,12,Health,Cheque,High,2023-04-05,651,2,51-70,1
+f9b06617-b375-4710-b85e-46587aee741a,26,Male,South Patricia,3365.21,8,Health,Cheque,High,2024-02-12,338,3,18-30,1
+b77ae5b7-a327-4e49-9b46-8baf8ebaa90d,50,Other,Robertton,2218.16,13,Animal Welfare,Cash,High,2023-04-01,655,1,31-50,0
+06ed1e6e-b951-4473-80b1-c67b4be46d50,65,Female,West Jenniferport,5810.34,15,Education,Cheque,Medium,2024-12-06,40,0,51-70,1
+b2336ed1-fd22-4f04-8e83-9fff9645eee8,64,Female,Port Rebeccachester,4229.33,3,Education,Online,Low,2024-12-21,25,0,51-70,1
+7c6a54e5-6e5c-477a-a7e6-b895f7661585,65,Female,Millertown,6767.72,2,Education,Cash,Low,2023-07-27,538,0,51-70,2
+c995bd1f-b066-4f73-ba24-a0bbfa558b22,41,Female,Laurenchester,2032.82,6,Animal Welfare,Cheque,Medium,2023-10-13,460,1,31-50,0
+cc15e8a7-b0df-4037-85cd-5bfadb93c562,58,Female,Janetfurt,7748.21,20,Animal Welfare,Cash,Medium,2024-11-16,60,2,51-70,2
+8dcc0c2a-e52e-4849-a988-6f81db1cbad5,73,Female,Lake Rebecca,4921.7,7,Health,Online,Medium,2024-05-31,229,0,71+,1
+ba2fbe4e-f113-43f0-9688-2012be7ade89,28,Male,Lake Arthur,5577.83,14,Animal Welfare,Cheque,Medium,2023-06-24,571,3,18-30,1
+08f7882d-3401-49a6-b398-cf557e1883fc,25,Other,East Wesleyport,8508.96,7,Disaster Relief,Cheque,Medium,2024-03-03,318,3,18-30,2
+72340e35-0df7-488a-9254-f0b36df4a8d1,41,Other,Amystad,8230.82,11,Disaster Relief,Cash,Medium,2023-10-04,469,3,31-50,2
+70cd3127-5b00-409d-a430-6cbc510de3d7,64,Male,East Tammy,3236.58,20,Education,Cash,Low,2023-09-08,495,2,51-70,0
+8d4eec6e-d8cb-46d1-8493-9d6a0627ca05,65,Male,Elliottchester,7244.72,3,Education,Cheque,High,2024-01-06,375,0,51-70,2
+52803a8d-b2a4-4ba3-a12f-85c719145270,29,Male,South Christinehaven,5658.29,4,Health,Cheque,High,2024-06-11,218,0,18-30,1
+f73ad456-fbd9-4b04-b9f0-d42aac84f2ee,26,Male,Melissafurt,2268.35,19,Environment,Cash,High,2023-09-13,490,1,18-30,0
+3561fc5b-0aa7-4e16-8c99-8a226be906a7,41,Female,South Robertville,3785.14,10,Animal Welfare,Cheque,High,2023-12-08,404,1,31-50,1
+1bee7b04-7282-4141-8521-8e381b762feb,27,Other,Port Lisastad,1656.37,20,Education,Cash,High,2024-11-15,61,1,18-30,0
+531fb083-ceb3-40fd-a885-251a8dee4d91,39,Other,Jacobborough,2201.84,4,Education,Cash,High,2023-06-30,565,1,31-50,0
+05422500-4ffb-4888-9366-49252a6867f2,47,Other,Omarmouth,8138.2,4,Health,Cash,Medium,2024-06-01,228,0,31-50,2
+8b7d4b4e-75bd-45cc-990e-85dc3dd66a68,53,Male,Millerton,5701.73,5,Health,Cash,High,2023-07-21,544,0,51-70,1
+543cd263-4180-4b34-9eb2-9ff781ee08f8,32,Female,Port Sandra,1515.13,3,Disaster Relief,Cheque,Low,2023-04-10,646,1,31-50,0
+0bfdd20f-7db6-45f9-9120-8e28dd436159,20,Other,Stephaniefort,3967.61,16,Animal Welfare,Online,High,2024-11-24,52,3,18-30,1
+8c49405f-f457-4667-b556-711c3304fa02,59,Female,Port Yolanda,9152.74,4,Environment,Cheque,Medium,2023-11-17,425,0,51-70,2
+f1077d64-731d-473d-8f08-77ca7fde6c20,58,Female,North Charlesberg,8059.08,9,Disaster Relief,Online,High,2024-06-10,219,0,51-70,2
+40433143-d0c1-46cb-ab63-72bb7f4543fe,20,Male,East Samanthaburgh,7243.57,20,Education,Online,High,2024-02-10,340,3,18-30,2
+c745baef-e593-4953-8db9-52c0db3ec944,29,Other,Hernandezhaven,9559.99,6,Disaster Relief,Cheque,High,2023-11-22,420,3,18-30,2
+4b637829-2dac-4cb6-9d91-6cd58ff3e11a,74,Other,Lake Ryanport,470.9,1,Education,Cheque,Medium,2023-02-18,697,1,71+,0
+51c6523e-07ea-4248-b990-a44ae4246f65,46,Other,South Brooke,6488.11,17,Health,Cash,Low,2023-10-28,445,2,31-50,1
+137e45b1-07f3-49b7-bab8-48cbcdeabde8,60,Female,West Alexander,8201.44,15,Disaster Relief,Online,Low,2024-09-22,115,2,51-70,2
+74b930a2-c319-480e-8a1c-33c01d090822,70,Female,South James,843.71,10,Animal Welfare,Cheque,High,2023-05-01,625,1,51-70,0
+3b9b4043-85e0-4b69-a111-576d5d37cae5,39,Other,Santanashire,5859.66,16,Disaster Relief,Online,Low,2023-01-26,720,2,31-50,1
+a3e69120-1fe0-4b9d-adfe-f36a5a7cc272,64,Male,Noahhaven,8145.95,9,Health,Cheque,Medium,2023-04-20,636,2,51-70,2
+5a0a8cb7-9feb-4952-914c-978dcb1419f4,28,Other,West David,4099.46,16,Animal Welfare,Cash,Low,2024-12-30,16,3,18-30,1
+38c51968-47db-4b9d-8481-7e9610fcbddf,48,Other,Mitchellborough,9936.0,2,Disaster Relief,Cash,Medium,2024-08-22,146,0,31-50,2
+ee818efd-9eb4-46db-9877-9947de88ba6d,40,Female,North Daniel,8219.02,14,Animal Welfare,Cash,Low,2023-12-01,411,3,31-50,2
+da43dd42-15e4-403c-92ae-069805e704f6,75,Female,South Joyce,8190.47,6,Education,Online,Low,2024-05-07,253,0,71+,2
+af8ff7f8-d0c4-466f-a728-fe14db225574,68,Female,Jeffreyside,8158.95,9,Environment,Cheque,Medium,2023-08-27,507,2,51-70,2
+b734e15a-8ece-4903-a897-b56ccbf840f2,47,Male,Pachecoport,3703.57,2,Education,Online,Medium,2024-10-07,100,0,31-50,1
+6ad81831-1be5-4c42-ac5c-be28ae52437d,29,Other,Samanthafurt,246.35,19,Environment,Online,Low,2024-05-16,244,1,18-30,0
+97b27bab-15db-481c-9086-37dab91a52d0,49,Female,Port Jillville,2582.88,17,Health,Cash,Low,2023-09-17,486,1,31-50,0
+4b8ab8f0-72a2-45c2-ad44-5e69299422cf,70,Female,South Angela,2900.82,15,Health,Online,Low,2024-09-04,133,1,51-70,0
+5acae743-6364-4534-a695-0da85e805bf8,66,Female,Lake Robert,8826.71,10,Disaster Relief,Online,Medium,2024-08-03,165,0,51-70,2
+be794856-b993-4886-9ffc-f2824a4ce738,63,Male,Gomezhaven,3754.39,13,Education,Cheque,Low,2024-08-16,152,0,51-70,1
+4acbc59a-b4c6-46dc-882b-fbb7df28f6a0,28,Other,Christopherview,7197.97,5,Health,Cheque,Medium,2024-12-19,27,0,18-30,2
+e0a1f7ff-def9-4617-bdc5-61f50695ab40,52,Female,Deannaville,7667.86,20,Education,Cash,High,2024-04-16,274,2,51-70,2
+6cba0dd0-a21d-40f6-b27d-1ef1006622c7,48,Male,Valerieland,5969.25,15,Animal Welfare,Cheque,Low,2024-07-08,191,3,31-50,1
+2070883f-e73a-4d7a-aff0-e6ef6d7cf73d,75,Female,North Susanburgh,7226.0,16,Health,Cheque,Low,2023-03-22,665,2,71+,2
+5cb3ec6b-2772-4049-a576-8219b0419c68,37,Other,New Victoria,5232.45,1,Animal Welfare,Cash,Low,2024-11-28,48,0,31-50,1
+10fe2db2-3efc-4104-9052-f52b43746052,33,Other,Higginsfurt,5799.9,4,Health,Cash,High,2023-03-13,674,3,31-50,1
+d42ec304-3ec8-4497-bf6a-6bc64304c53f,59,Female,Denisefurt,5069.65,19,Education,Cash,Low,2024-11-25,51,2,51-70,1
+d578a055-c597-43b3-8d34-46c5fa635128,80,Other,North William,4630.96,9,Disaster Relief,Online,Low,2023-08-20,514,2,71+,1
+45f1d5ee-d7a3-4b47-aa4c-a70119382675,61,Other,Gonzalezbury,6353.74,11,Education,Online,Low,2023-08-12,522,2,51-70,1
+dbe2fc5a-3fd2-494c-8efd-53bbca0cc724,49,Female,East Randyville,330.87,4,Disaster Relief,Cheque,High,2024-02-20,330,1,31-50,0
+94dc2db6-ad64-4176-90ea-104a398feaae,50,Male,South Jill,1360.23,4,Health,Online,Low,2023-07-01,564,1,31-50,0
+04a82f3f-3bed-4fed-9997-c6de8e2ac9e3,29,Male,New David,6210.28,6,Environment,Cash,Medium,2023-02-02,713,3,18-30,1
+ca05a33e-8136-45a1-9f26-1ad11574efae,24,Female,Dillonshire,7242.17,13,Disaster Relief,Cheque,High,2024-11-25,51,3,18-30,2
+454df74a-c300-4f46-b882-33d88a569bb3,54,Male,North Erikamouth,1190.49,6,Environment,Online,Low,2023-05-23,603,1,51-70,0
+e458921d-ffbe-4560-93cb-e3d67ccc95b5,35,Other,Jackbury,2979.2,12,Health,Online,Medium,2024-02-18,332,1,31-50,0
+e37c0a71-0f6f-4ab0-b924-30050566693a,38,Other,East Jerome,1988.85,15,Environment,Online,Low,2024-09-23,114,1,31-50,0
+2b151a48-23e6-4365-9d44-bb4883e4bbff,34,Male,West Emilychester,8902.68,7,Health,Online,Medium,2023-07-25,540,3,31-50,2
+50445fd5-5107-4fe1-bcca-172ccbbd5c74,22,Other,North James,8526.92,15,Health,Cheque,Low,2024-03-27,294,3,18-30,2
+ab914e08-fcb6-483a-9aa7-7077492c1406,26,Male,North Katrina,1749.78,10,Health,Cash,High,2024-07-14,185,1,18-30,0
+2167a6e5-5cc8-4e3b-9762-dfbd84899874,53,Female,New Dustin,9302.22,5,Environment,Cheque,Low,2023-08-14,520,2,51-70,2
+432353c6-6256-4995-9217-e755fc1fc332,38,Female,Harrisshire,7543.91,10,Environment,Cash,Low,2023-06-09,586,3,31-50,2
+e0705b40-ae56-46eb-8f35-25f906691ac8,47,Male,West Dustin,7922.11,17,Education,Online,Medium,2024-05-08,252,2,31-50,2
+48096149-98e4-4237-94b8-6a848d7f1bfb,21,Male,Port Derrickside,2928.02,16,Disaster Relief,Cash,Medium,2023-08-19,515,3,18-30,0
+08e267b0-7bf2-4b97-ab79-54a1167734f2,51,Other,South Laura,8037.26,7,Health,Cash,Medium,2023-05-17,609,2,51-70,2
+b9b81163-5526-4d0b-80a9-9670a680222d,51,Other,West Victorview,3892.76,7,Environment,Online,Low,2024-09-30,107,0,51-70,1
+788e4632-be74-404a-a092-271f869aa61a,60,Male,Kellyview,7159.48,6,Education,Cash,High,2024-12-13,33,0,51-70,2
+c79296de-93d0-48b9-a80f-fe5567a1a9aa,64,Female,West Johnland,693.2,13,Animal Welfare,Online,Medium,2023-11-30,412,1,51-70,0
+3e93e699-9570-48cc-af79-62f839722889,31,Other,Elizabethville,5488.71,8,Health,Online,Medium,2024-06-13,216,3,31-50,1
+34ea6031-9c10-40a2-b225-f4504f388020,60,Female,West Brendaberg,5113.9,9,Health,Cash,High,2024-01-12,369,0,51-70,1
+57d24f21-f608-40ac-aa59-e96c70eb47f7,42,Male,Hooperfort,1795.31,15,Health,Cash,Medium,2023-01-27,719,1,31-50,0
+e3b25998-5036-4c64-b844-7cc3dc151a36,18,Male,South Juan,6032.17,4,Environment,Cash,High,2024-01-30,351,3,,1
+207d4662-39a6-42d7-ab8d-7e95c072f324,54,Female,Robertsfort,7944.03,8,Health,Cash,Medium,2025-01-02,13,0,51-70,2
+a7995822-e487-40a6-a1fa-5e4bfaf86ac9,79,Male,West Edwinmouth,6665.14,5,Animal Welfare,Online,High,2024-10-05,102,0,71+,1
+aec160c5-15ad-435f-adc2-f1d201e16cb5,19,Male,Lake Richard,9877.02,9,Health,Cheque,Medium,2023-09-19,484,3,18-30,2
+b50e0986-a720-4c51-9c8c-461fd51414bb,66,Male,Mcdowellside,8038.65,16,Disaster Relief,Online,Low,2023-01-22,724,2,51-70,2
+4ab88062-b580-4512-9bbc-ef441437e397,73,Female,Lake Carolineburgh,2269.6,13,Disaster Relief,Cheque,Medium,2023-12-19,393,1,71+,0
+fb3a2ed4-1a76-48ec-9577-4f64b2ac1144,58,Male,Griffinton,681.94,20,Animal Welfare,Online,High,2023-05-31,595,1,51-70,0
+f126bea8-e9d0-4469-b161-1e3c7c12b41e,50,Other,West Jenniferchester,976.62,12,Health,Cheque,Medium,2024-06-11,218,1,31-50,0
+809c3b73-1226-4d2f-8bc3-0ef5749bba6b,78,Other,East Tony,9806.39,2,Disaster Relief,Online,High,2023-11-09,433,0,71+,2
+c1fe92da-9287-44ba-955c-49036ac5f783,70,Other,New Mackenzieview,1249.53,12,Disaster Relief,Online,High,2023-12-15,397,1,51-70,0
+7223babe-a03d-406e-8419-b5069eaefed4,55,Other,New Amberchester,9281.77,7,Disaster Relief,Online,High,2024-01-29,352,0,51-70,2
+94a283d0-2dd8-4454-a7b8-0aff3597bd37,69,Female,Port Joseph,5198.97,13,Animal Welfare,Online,Low,2024-08-20,148,0,51-70,1
+3af06ff6-320a-4214-8d1d-c8f98bb86419,68,Female,Johnsonton,784.02,13,Environment,Cheque,Low,2024-07-04,195,1,51-70,0
+4d1e8430-9e63-4870-85f7-bb6a2810c272,78,Male,Stewartview,7559.16,9,Animal Welfare,Cash,High,2023-08-05,529,2,71+,2
+e2a8b00b-629c-4fd6-a435-6a744481ebcc,27,Female,West James,6199.03,2,Environment,Cash,Low,2024-07-07,192,0,18-30,1
+508ae7b6-d675-493d-9cc2-ffb8529b721e,49,Female,Craigstad,9320.57,6,Animal Welfare,Cash,Low,2024-09-26,111,0,31-50,2
+231daa22-a1a5-4c70-b12d-611fee5d4675,26,Female,West Christopher,7154.2,5,Animal Welfare,Online,Low,2024-09-09,128,3,18-30,2
+efca5dd2-0ec4-45b8-b1b6-1f278d1f429f,73,Other,Lake Dennishaven,8153.92,10,Environment,Cash,Medium,2023-10-07,466,2,71+,2
+faf6dae7-9ec2-45d8-b1c5-3dd35c08d2d5,48,Other,Pamelabury,448.0,20,Education,Online,High,2023-09-27,476,1,31-50,0
+43f07308-60a0-49a8-8c22-f851d1b00030,59,Male,North Brendamouth,6352.63,4,Animal Welfare,Cash,Low,2024-08-18,150,0,51-70,1
+56705c92-9192-447c-80ff-83622f35e1cc,43,Other,New Angela,4394.35,1,Animal Welfare,Online,Medium,2024-05-27,233,0,31-50,1
+7ece4ff5-d330-44ff-97fd-be1807f2afac,43,Other,Hessborough,4699.55,18,Animal Welfare,Cheque,High,2023-04-25,631,2,31-50,1
+273f3361-9a68-4574-9db2-778e7cadf31a,56,Female,Lake Terrishire,3908.85,18,Animal Welfare,Online,Medium,2023-05-09,617,2,51-70,1
+3a0b2698-c3a1-4182-bf63-579b08f6e456,37,Other,West Kevin,5869.96,14,Environment,Cash,High,2023-12-16,396,3,31-50,1
+cfaad69b-f30f-4746-8395-6d1155077435,64,Male,North Rachel,2505.65,9,Health,Cash,Low,2023-08-07,527,1,51-70,0
+37c2b8ed-92b7-4570-81ab-406ae4a134f3,60,Female,Cooperview,9233.37,5,Environment,Cash,Medium,2023-08-06,528,2,51-70,2
+6d39f48a-3a70-4138-9bfe-2700bc865b17,62,Male,North David,4728.57,1,Environment,Online,High,2024-12-17,29,0,51-70,1
+3662000d-abf9-467f-b77f-2fcece1422f1,72,Female,Marshallstad,41.01,3,Health,Cash,High,2023-08-04,530,1,71+,0
+cc20a1a3-4d74-4dee-aafe-b990ee95c33e,48,Female,West Amberhaven,2153.69,7,Disaster Relief,Online,Low,2024-07-10,189,0,31-50,0
+f01f6e13-1696-4ec9-8c5a-1f59b7b63329,61,Male,Port Angela,4885.8,9,Environment,Cheque,Medium,2024-04-29,261,0,51-70,1
+de886bf8-7e03-4711-846b-bef8ebcd57b9,68,Female,Torresshire,6393.72,12,Health,Online,Medium,2024-08-06,162,0,51-70,1
+a675492d-5186-4272-beaf-19d49cb081e5,70,Other,Sarahland,8263.35,8,Health,Online,Medium,2024-08-03,165,0,51-70,2
+6c94ac57-29c0-49f0-922b-26eea1d9edc5,69,Other,South Omar,7758.92,12,Health,Cheque,High,2024-06-13,216,2,51-70,2
+0ae4a880-a850-44f7-b747-3e56df84353f,23,Male,South Michaelshire,8479.92,9,Health,Online,Medium,2023-10-07,466,3,18-30,2
+1d480d12-d43c-44bb-8684-9563986fa7d3,57,Male,West Adam,1859.29,2,Health,Online,Medium,2024-11-12,64,0,51-70,0
+66fea10d-c766-476a-8b1d-23d43b7f57f6,58,Male,Johnport,7793.53,15,Animal Welfare,Cheque,Low,2024-08-01,167,2,51-70,2
+8d78053e-6c40-4038-a5b5-e0b9f830afa3,18,Female,Mccannshire,5764.67,13,Disaster Relief,Online,Low,2024-06-08,221,3,,1
+bd48a2eb-3b5d-4e85-bf7a-619911ecec9f,49,Male,Brandyberg,2023.15,10,Disaster Relief,Online,High,2024-02-16,334,1,31-50,0
+565e265d-737b-4994-bd44-cb4df4aa7e51,19,Other,West Jenna,3845.62,17,Disaster Relief,Online,High,2024-12-20,26,3,18-30,1
+59d50692-af85-4343-97ea-2f588b739af0,52,Other,Garrettview,2719.34,16,Disaster Relief,Online,Low,2023-08-09,525,1,51-70,0
+50c84d08-06ec-4fae-829d-325d3c669518,70,Female,South Brad,4540.73,3,Education,Cheque,High,2023-06-12,583,0,51-70,1
+e799cfc8-9d3e-4712-aa17-3d783fef007d,55,Other,Laurenmouth,9345.38,13,Education,Cash,High,2023-02-01,714,2,51-70,2
+1c7bb867-61dc-4d08-b456-17ab70476ec1,40,Female,South Cynthiashire,8036.27,12,Animal Welfare,Cash,Medium,2023-03-02,685,2,31-50,2
+cf4df997-c3d3-4cd6-b4c6-d443f6d99bdf,19,Female,Dixonland,7869.95,17,Education,Online,Low,2023-02-26,689,3,18-30,2
+80a2d647-8cf2-477c-9a4b-ec412e035cc6,64,Female,Gutierrezland,5605.26,6,Health,Cash,High,2023-03-11,676,2,51-70,1
+5d9d94d2-6378-450b-89aa-f989579c80c5,39,Male,Cruzbury,536.09,3,Animal Welfare,Online,High,2024-02-08,342,1,31-50,0
+00c4aced-f4f6-4f91-92d7-0060ca66f9a9,70,Male,North Shawnstad,2918.16,5,Health,Cheque,Low,2023-03-09,678,1,51-70,0
+ae0bc68f-5832-4d6d-8a69-5629b32ab59b,63,Female,North Alex,858.37,11,Animal Welfare,Online,Low,2024-12-28,18,1,51-70,0
+6fe68e58-862b-4f9e-ad58-bfa3d4c50e31,19,Other,West Jaimehaven,2921.92,5,Environment,Online,Medium,2023-06-23,572,3,18-30,0
+3d1b2f26-ae19-4c32-befd-3fdd3cc4cd3d,34,Female,Lake Williamfort,1003.56,8,Disaster Relief,Online,Medium,2024-06-03,226,1,31-50,0
+a945538a-d5b5-4841-b09f-39bf9c86bbbf,77,Male,Perezbury,1832.61,8,Disaster Relief,Cheque,Medium,2024-03-17,304,1,71+,0
+a8f2396b-88d7-4a07-94f5-66d5b91324e2,44,Male,Whitneychester,8334.63,6,Disaster Relief,Online,Low,2024-01-28,353,0,31-50,2
+5764b892-e47f-45bc-9db0-849ba7ff90a1,62,Male,Elizabethburgh,3513.36,17,Health,Online,High,2023-02-05,710,2,51-70,1
+de4adb83-1d86-4f28-bdc4-f2a41592fe26,60,Other,South Tabitha,2484.23,7,Animal Welfare,Online,Medium,2024-12-29,17,0,51-70,0
+8f0fda5a-c073-4087-97ab-72483f3faff9,73,Female,Sarahside,3582.23,16,Animal Welfare,Cheque,High,2023-03-06,681,2,71+,1
+2fc3d22f-5ea9-41c2-9153-466128599bc1,23,Male,Smithborough,1568.68,10,Health,Cheque,Low,2023-01-24,722,1,18-30,0
+67ec3c67-fee9-44f7-b99d-4fea1832f00a,66,Other,Katherineside,3528.28,13,Environment,Online,Medium,2024-01-21,360,1,51-70,1
+4979d29b-61cf-4dd6-9106-7b5a2ce949e9,49,Other,Johnsontown,9803.12,16,Disaster Relief,Cheque,Low,2023-09-16,487,2,31-50,2
+529eefde-86fd-473b-8218-953008687515,38,Female,Santoschester,9888.25,15,Environment,Cash,Low,2024-02-04,346,3,31-50,2
+ceb4f26e-504c-4354-a241-e0aaf7c659b4,40,Other,Suttonberg,4986.23,18,Animal Welfare,Cheque,Low,2023-06-07,588,2,31-50,1
+830f1b71-b2a3-4833-a57e-ad7f5ceabc11,37,Female,Shafferland,2077.82,4,Animal Welfare,Cheque,Medium,2023-02-01,714,1,31-50,0
+5cf21ea4-e594-43b7-8026-153090ee84fd,63,Other,Johntown,4681.38,14,Education,Cash,Low,2024-08-19,149,0,51-70,1
+ece54ad5-975b-4f77-96a4-cfd8ec047b32,40,Male,South Carlos,3056.37,18,Environment,Cash,Low,2023-09-03,500,1,31-50,0
+d2d9d54c-f223-4c9a-be82-2ba91410867b,61,Female,Jacquelineside,9634.63,4,Education,Online,Low,2023-04-08,648,2,51-70,2
+666f02fb-0f41-4201-b68c-8a32c766f6f9,59,Other,Brownberg,6054.25,5,Animal Welfare,Cash,Low,2024-03-04,317,0,51-70,1
+d7154193-cc88-49c6-b098-c94c80f665df,24,Male,Curtisbury,6924.54,18,Animal Welfare,Cash,Medium,2024-03-31,290,3,18-30,2
+98d40f0e-f03b-4299-a52b-5e226c44a53d,40,Male,Port Jeffreytown,4648.42,11,Health,Cash,Low,2024-09-23,114,0,31-50,1
+00137a7e-0626-4997-8c92-3b4b1320bbe1,79,Female,Beasleymouth,147.56,6,Disaster Relief,Cash,Medium,2024-10-05,102,0,71+,0
+edea83cf-3ee7-4ae9-b9a8-5b7ac3347081,76,Other,Ayerstown,1753.73,5,Education,Cheque,Medium,2023-07-13,552,1,71+,0
+e23e4bd2-e967-4843-86dc-d779054b5279,54,Male,New Jonathanmouth,2564.11,16,Animal Welfare,Online,Medium,2023-05-13,613,1,51-70,0
+0b3325e6-fd78-4a5c-9ae3-0c4b795a9a47,30,Female,Williamburgh,1060.42,10,Health,Cheque,High,2024-01-07,374,1,18-30,0
+70105979-d86a-4d23-a38c-801dc101e5c2,48,Female,New Paulberg,5108.05,17,Environment,Cash,High,2024-02-21,329,2,31-50,1
+0a96eea1-5f09-4cb9-9c58-6e5dcd0c43e0,42,Female,East Teresa,1756.6,13,Disaster Relief,Online,Low,2024-03-15,306,1,31-50,0
+1b30cf18-2063-48ef-bfa4-a9c5e9c87784,80,Female,North Oscar,6136.45,3,Health,Cheque,Low,2024-07-17,182,0,71+,1
+41cec991-b5b3-473a-abc6-b937e8c04473,80,Female,North Michaelton,6084.03,19,Health,Cash,Medium,2023-06-27,568,2,71+,1
+f385acfe-ee2b-449e-8390-fe4ec61fdf6a,60,Other,Erikamouth,382.34,2,Health,Cash,Medium,2024-08-19,149,0,51-70,0
+8eed347b-8f19-4019-a1b8-06e9278bb871,75,Female,North Elizabeth,7799.33,14,Environment,Online,Low,2024-05-18,242,2,71+,2
+5bb1c360-af35-4585-b7cb-747412a75314,46,Other,Turnermouth,3727.38,3,Education,Cash,High,2024-07-11,188,0,31-50,1
+56061345-e52a-492b-b5ef-f45338750ed0,44,Female,Donovanmouth,3704.48,14,Health,Cash,Low,2024-04-27,263,1,31-50,1
+510da508-1abe-4cf4-be6d-50201beba23b,74,Other,North Autumn,9912.67,8,Education,Cash,Medium,2024-01-13,368,2,71+,2
+57dd3f1e-8140-4ae7-924f-e20d7ae8ac1b,76,Other,Bergerborough,6481.92,16,Environment,Online,Medium,2023-01-25,721,2,71+,1
+f71357d4-e1c5-4f6e-9c1a-2b7df0342112,50,Other,Pottsbury,875.99,20,Education,Online,Low,2023-03-17,670,1,31-50,0
+2fed5eec-6023-4cb7-b7f4-d3da18017bda,34,Male,Padillachester,5444.61,3,Animal Welfare,Cash,Low,2024-05-05,255,0,31-50,1
+ac670242-35e6-4eab-9ce5-6039ff8b2f9c,23,Female,Kennethfurt,3643.86,18,Health,Cheque,High,2024-03-04,317,3,18-30,1
+03bc0106-ab23-4a5e-a1dd-53064f1e1643,69,Other,Port Kristenville,6935.56,11,Animal Welfare,Cash,High,2023-05-10,616,2,51-70,2
+c4652ed4-5187-40c7-b1e7-2b0d73b426ae,76,Female,Jennifermouth,2528.19,10,Animal Welfare,Online,Medium,2024-04-15,275,1,71+,0
+3ef08914-88e6-4976-92f1-657e5f5afde0,44,Other,Lewisburgh,8701.88,16,Education,Cash,High,2024-09-20,117,3,31-50,2
+b5f276ef-3096-46df-8c06-95e1c838c9ec,64,Male,Kathleenfurt,1917.43,10,Environment,Cash,Low,2023-03-03,684,1,51-70,0
+53b53a2d-21a0-42c4-9a3c-d7bf0db7c324,46,Male,East Adrian,1909.81,6,Health,Online,Medium,2024-08-28,140,0,31-50,0
+2bfaee9c-186a-40ad-a79a-55c0356056d2,72,Male,Lake Kristintown,8694.68,4,Environment,Cash,High,2024-08-27,141,0,71+,2
+55770093-b65a-4e46-a679-8145f69348b9,75,Female,Floresland,2251.36,7,Health,Online,Medium,2023-03-20,667,1,71+,0
+b5a6b2ad-7d6e-4f22-a89c-09b62c5cb425,72,Male,Lauraburgh,8389.39,15,Health,Online,Medium,2024-10-18,89,2,71+,2
+f097ede5-dcab-4f27-a264-86e027d2c05f,42,Male,Abigailburgh,4674.85,7,Health,Cash,Medium,2024-11-09,67,0,31-50,1
+6a0154db-f142-4e9c-bcbf-315c6ca44271,58,Female,East Jessicastad,6457.33,12,Education,Online,Medium,2024-08-15,153,0,51-70,1
+378346c8-868f-4b88-ab0a-0655fd84ebb2,28,Other,South Ericburgh,4189.74,20,Health,Cheque,Low,2023-02-19,696,3,18-30,1
+ef20c73c-3ea6-48db-9e0e-5bc77a83bc87,25,Other,West Garyberg,507.71,7,Disaster Relief,Cheque,Medium,2023-09-05,498,1,18-30,0
